@@ -1,0 +1,14 @@
+"wallet_address","chain","protocol","position","balance_type","asset_type","symbol","balance","price","value"
+"cosmos14mwakrh85l45wjefetc66uzupazt9rlgr04l2x","COSMOS","stakingCosmos",1,"staking","token","ATOM",100.847166,28.23,2846.91549618
+"cosmos14mwakrh85l45wjefetc66uzupazt9rlgr04l2x","COSMOS","stakingCosmos",1,"reward","token","ATOM",1.16324326484741,28.23,32.838357366642384
+"juno14mwakrh85l45wjefetc66uzupazt9rlg4akyd6","JUNO","stakingJuno",1,"staking","token","JUNO",95.520622,33.08,3159.82217576
+"juno14mwakrh85l45wjefetc66uzupazt9rlg4akyd6","JUNO","stakingJuno",1,"reward","token","JUNO",3.39273864387967,33.08,112.23179433953948
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","apposmosisOsmosis",1,"staking","lp","ATOM",73.95923029752315,28.23,2087.8690712990783
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","apposmosisOsmosis",1,"staking","lp","OSMO",239.2653803024553,8.76,2095.9647314495082
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","stakingOsmosis",1,"staking","token","OSMO",20.2,8.76,176.952
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","stakingOsmosis",1,"reward","token","LUNA",1.074419416e-9,92.61,9.950198211576e-8
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","stakingOsmosis",1,"reward","token","ATOM",9.92545098392e-8,28.23,0.000002801954812760616
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","stakingOsmosis",1,"reward","token","UST",0.0000023683985663156,1,0.0000023683985663156
+"osmo14mwakrh85l45wjefetc66uzupazt9rlgt5x0u5","OSMOSIS","stakingOsmosis",1,"reward","token","OSMO",0.35657031328307426,8.76,3.1235559443597305
+"secret14mwakrh85l45wjefetc66uzupazt9rlgp2pkh6","SECRET","stakingSecret",1,"staking","token","SCRT",1198,4.72,5654.5599999999995
+"secret14mwakrh85l45wjefetc66uzupazt9rlgp2pkh6","SECRET","stakingSecret",1,"reward","token","SCRT",0.30695735937035007,4.72,1.4488387362280521
